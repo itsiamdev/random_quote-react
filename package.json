@@ -1,16 +1,26 @@
 {
-  "name": "random_quote-react",
+  "name": "motivational-quote-generator",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "A simple React app that generates random motivational quotes",
+  "main": "index.js",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
+  "keywords": [
+    "react",
+    "vite",
+    "motivational",
+    "quotes",
+    "generator"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1"
