@@ -15,7 +15,7 @@ A beautiful, full-screen React application that generates random motivational qu
 
 ## 🚀 Live Demo
 
-Experience the app live at: [https://iam269.github.io/random_quote-react/](https://iam269.github.io/random_quote-react/)
+Experience the app live at: [https://itsiamdev.github.io/random_quote-react/](https://itsiamdev.github.io/random_quote-react/)
 
 ## Features
 
